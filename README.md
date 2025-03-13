@@ -3,8 +3,10 @@ Java Applet turned Swing application into a Booklet to run on Kindle (FW <= 5.16
 - Tested on:
   -  _Kindle Paperwhite 3 (7th Generation)_
 
-https://github.com/user-attachments/assets/5bbd19b6-3662-4fcb-a8ca-e7413859e8d1
+<https://github.com/user-attachments/assets/5bbd19b6-3662-4fcb-a8ca-e7413859e8d1>
+
 <img src="https://github.com/user-attachments/assets/f8aab704-991e-46dd-97d2-74d6fa826099" width="300" height="450">
+
 <img src="https://github.com/user-attachments/assets/0187c974-4f3a-4e2f-9b92-545d61090ee1" width="300" height="450">
 
 # Requirements
