@@ -3,11 +3,7 @@ Java Applet turned Swing application into a Booklet to run on Kindle (FW <= 5.16
 - Tested on:
   -  _Kindle Paperwhite 3 (7th Generation)_
 
-<https://github.com/user-attachments/assets/cdec6b63-46a8-4ba8-bf19-6e8162c3f410>
-
-<img src="https://github.com/user-attachments/assets/f8aab704-991e-46dd-97d2-74d6fa826099" width="300" height="450">
-
-<img src="https://github.com/user-attachments/assets/0187c974-4f3a-4e2f-9b92-545d61090ee1" width="300" height="450">
+<https://github.com/n0tori/kindle-game-of-life/blob/main/examples/demo.mp4>
 
 # Requirements
 1. Kindle is jailbroken - see [this](https://kindlemodding.org/jailbreaking/kindle-models) for your jalibreak
@@ -34,3 +30,6 @@ Java Applet turned Swing application into a Booklet to run on Kindle (FW <= 5.16
 
 # Credit
 All credit to this [project](https://github.com/ieb/Signalk_Booklet/tree/master) for their reverse engineering that is used to make this project happen.
+
+![Example 1](examples/example1.png)
+![Example 2](examples/example2.png)
